@@ -39,7 +39,8 @@ To find evidence of academic dishonesty; specifically, reading and math grades f
 
 •	% Overall Passing 65
 
- ![Original_Data](Resources/D3_original_data.png)
+ ![Original_Data](
+ Resources/D3_original_data.png)
  
  
 ## Data: After Cleanup
