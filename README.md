@@ -71,7 +71,7 @@ To find evidence of academic dishonesty; specifically, reading and math grades f
 
 ![Scores_by_size](Resources/D3_scoreBysize.png)
 
-5.Scores by type
+5.Scores by type:
 
 ![Scores_by_type](Resources/D3_scoreBytype.png)
 
