@@ -60,7 +60,7 @@ To find evidence of academic dishonesty; specifically, reading and math grades f
 1. Overall results affeccted for math from 75% to 74.8% and for reading 86% to 85.7% Overall % has not much effect but still changes from 65% to 64.9%.
 
 2. Original Math and reading scores by grade:
-3. 
+ 
 ![MathandReading_by Grade](D3_originaldata_mathAndreading.png)
 
 3.After Cleanup Math and reading scores by grade:
